@@ -39,5 +39,8 @@ STATS |  LANGUAGES
     </a>
     <a href="https://discordapp.com/users/284738631174848513" target="_blank">
         <img align="center" alt="Pedro-Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/pedro-c-32700a104/" target="_blank">
+        <img align="center" alt="Pedro-Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg">
     </a>    
 </div>
