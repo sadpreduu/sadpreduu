@@ -19,13 +19,12 @@ STATS |  LANGUAGES
 ### 📚 TECH-STACK:
 <div aling = "center">
     <div style = "display: inline_block"><br>
-        <img alt="Pedro-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="Pedro-CSS" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="Pedro-Js" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />        
-        <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
+        <img alt="Pedro-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> |
+        <img alt="Pedro-CSS" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> |
+        <img alt="Pedro-Js" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> |
+        <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
+        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> |       
+        <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> |  
     </div>
 </div>
  
@@ -38,8 +37,5 @@ STATS |  LANGUAGES
 <div style="display: inline_block" >
     <a href="mailto:pedrinhoafonco@gmail.com" target="_blank">
     <img align="center" alt="Pedro-Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://discordapp.com/users/284738631174848513" target="_blank">
-        <img align="center" alt="Pedro-Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
 </div>
