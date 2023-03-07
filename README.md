@@ -23,7 +23,9 @@ STATS |  LANGUAGES
         <img alt="Pedro-CSS" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img alt="Pedro-Js" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />
+        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" />        
+        <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
     </div>
 </div>
  
