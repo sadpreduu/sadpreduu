@@ -17,6 +17,7 @@ STATS |  LANGUAGES
 ##
   
 ### 📚 TECH-STACK:
+
 <div aling = "center">
     <div style = "display: inline_block"><br>
         <img alt="Pedro-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> |
@@ -25,6 +26,7 @@ STATS |  LANGUAGES
         <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
         <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> |       
         <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> |  
+        <img alt="Pedro-Rjs" align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> |
     </div>
 </div>
  
@@ -32,7 +34,7 @@ STATS |  LANGUAGES
 
 ##
 
-### 📞 CONTACT ME | SOCIAL:
+### REACH ME | SOCIAL:
 
 <div style="display: inline_block" >
     <a href="mailto:pedrinhoafonco@gmail.com" target="_blank">
