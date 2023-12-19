@@ -2,7 +2,6 @@
 
 You can call me Pedro, Im a junior JavaScript dev working my way to be the best Js Dev on earth! 
 
-- 🔭 I’m currently working on Oracle Express Application at CDA
 - 🌱 I’m currently learning React Js
 
 ##
