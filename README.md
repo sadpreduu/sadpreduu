@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-You can call me Pedro, Im a junior JavaScript dev working my way to be the best Js Dev on earth! 
+Olá, você pode me chamar de Pedro! Sou um desenvolvedor Java, Javascript e Python e em algum dia eu vou ser o melhor da terra!
 
-- 🌱 I’m currently learning React Js
+You can call me Pedro, Im a JavaScript, Java and Python developer working my way to be the best Js Dev on earth! 
+
+- 🌱 I’m currently learning ReactJs and ElectronJs;
+- 📻 Working on my Virtual Lofi Radio Station;
 
 ##
 STATS |  LANGUAGES
