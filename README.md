@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Olá, você pode me chamar de Pedro! Sou um desenvolvedor Java, Javascript e Python e em algum dia eu vou ser o melhor da terra!
+Olá, você pode me chamar de Pedro! Sou um desenvolvedor full stack com foco em Java, Javascript e Python!
 
-You can call me Pedro, Im a JavaScript, Java and Python developer working my way to be the best Js Dev on earth! 
+You can call me Pedro, Im a JavaScript, Java and Python fullstack developer! 
 
 - 🌱 I’m currently learning ReactJs and ElectronJs;
 - 📻 Working on my Virtual Lofi Radio Station;
