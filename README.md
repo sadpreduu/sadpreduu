@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1000&vCenter=true&random=true&width=435&lines=Eae%2C+sou+o+Pedroca!)](https://www.linkedin.com/in/pedro-ca/)
 
 Olá, você pode me chamar de Pedro! Sou um desenvolvedor full stack com foco em Java, Javascript e Python!
 
