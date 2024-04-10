@@ -11,7 +11,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=F71D6C&background=FF811E00&vCenter=true&random=true&width=435&lines=Eae%2C+sou+o+Pedroca!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=F71D6C&background=FF811E00&vCenter=true&random=true&width=435&lines=Eae%2C+sou+o+Pedro!)](https://git.io/typing-svg)
 <img align="right" height="225px" alt="sad_icon.png" src="./sad_icon.jpg">
 
 <br>
@@ -20,7 +20,6 @@
 <div style = "display: inline_block">
 
 <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
-<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />  
 <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
 <img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%20%23F71D6CFF&link=mailto%3Apedrinhoafonco%40gmail.com" />
 
