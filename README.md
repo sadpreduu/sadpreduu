@@ -19,9 +19,9 @@
 
 <div style = "display: inline_block">
 
-<img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
-<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
-<img src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%20%23F71D6CFF&link=mailto%3Apedrinhoafonco%40gmail.com" />
+<img href="https://linkedin.com/in/pedro-ca" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
+<img href="https://t.me/spedroca" src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%20%23F71D6CFF&link=https%3A%2F%2Flinkedin.com%2Fin%2Fpedro-ca" />
+<img href="mailto:pedrinhoafonco@gmail.com" src="https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%20%23F71D6CFF&link=mailto%3Apedrinhoafonco%40gmail.com" />
 
 </div>
 
