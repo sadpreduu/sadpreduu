@@ -7,14 +7,15 @@
 </div>
 
 
-<!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) -->
 
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=F71D6C&background=FF811E00&vCenter=true&random=true&width=435&lines=Eae%2C+sou+o+Pedroca!)](https://git.io/typing-svg)
-<img align="right" height="125px" alt="sad_icon.png" src="./sad_icon.jpg">
+<img align="right" height="225px" alt="sad_icon.png" src="./sad_icon.jpg">
 
+<br>
+<br>
 
 <div style = "display: inline_block">
 
@@ -37,7 +38,6 @@ Im a Full Stack Developer with strong knowledge in Python and Javascript. I'm a 
 - 📻 Check this amazing virtual [radio](www.plaza.one);
 
 <br>
-<br>
 <h1>STACK</h1>
 
 <div aling = "center">
@@ -45,32 +45,41 @@ Im a Full Stack Developer with strong knowledge in Python and Javascript. I'm a 
         <img alt="Pedro-HTML" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> |
         <img alt="Pedro-CSS" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /> |
         <img alt="Pedro-Js" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /> |
-        <img alt="Daniel-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
-        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" /> |       
-        <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> |  
-        <img alt="Pedro-Rjs" align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> |
+        <img alt="Pedro-Python" align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> |
+        <img alt="Pedro-Djs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"/>
+    </div>
+    
+<div style = "display: inline_block"><br>
+        <img alt="Pedro-Rjs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> |
+        <img alt="Pedro-Vjs" align="center" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> |
         <img alt="Pedro-Java" align="center"  height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> |
-        <img alt="Pedro-Docker" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> |
-        <img alt="Pedro-Angular" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   |
+        <img alt="Pedro-C#" align="center"  height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> |
+        <img alt="Pedro-Angular" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   
+    </div>
+    
+<div style = "display: inline_block"><br>
         <img alt="Pedro-Kotlin" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> |
         <img alt="Pedro-NextJs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> |
         <img alt="Pedro-ViteJs" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /> |
         <img alt="Pedro-Electron" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> |
-        <img alt="Pedro-AWS" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> |
-        <img alt="Pedro-Postgres" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> |
-        <img alt="Pedro-MySQL" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> |
-        <img alt="Pedro-DynamoDB" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" /> |
-        <img alt="Pedro-Oracle" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> |
+        <img alt="Pedro-AWS" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     </div>
-</div>
+    
+<div style = "display: inline_block"><br>
+        <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> |
+        <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> |
+        <img alt="Pedro-Postgres" align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> |
+        <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" /> |
+        <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /> |
+        <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> | 
+        <img alt="Pedro-Docker" align="center"  height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+
+          
+
+<br>
 <br>
 
-#
-
-<br>
-<br>
-
-# STATS | LANGUAGES <>
+# STATS | MOST USED LANGUAGES </>
     
 <br>
 
