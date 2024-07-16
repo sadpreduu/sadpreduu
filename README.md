@@ -32,7 +32,7 @@ Im a Full Stack Developer with strong knowledge in Python and Javascript. I'm a 
 
 
 
-- 🌱 I’m currently learning PyTorch, Kotlin and AngularJs;
+- 🌱 I’m currently working at Az Tech as a Springboot and Vuejs developer;
 - 📔 Working on my Virtual [Portfolio](https://sad-portifolio.vercel.app);
 - 📻 Check this amazing virtual [radio](https://plaza.one);
 
